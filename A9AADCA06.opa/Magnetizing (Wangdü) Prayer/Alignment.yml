@@ -1,0 +1,19 @@
+segment_sources:
+  PAADFA671:
+    type: origin_type
+    relation: translation
+    language: en
+  PB8BBD1E5:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c9b0cf7bba2543b5b28d8c26ed5b605b:
+    PAADFA671: d691675b598440a78f1d0a849ac00bbf
+    PB8BBD1E5: 14ed89e66a2c480fbaa73a9343fe51d5
+  e6729bdcd5e04ba192b2c570e936e651:
+    PAADFA671: 8dc114945ad7485fb4a0aa3036a82225
+    PB8BBD1E5: 2ea795123cb54946a7103f9b3c9ae248
+  9074a0166c604eda913166c538a73bd3:
+    PAADFA671: 362980e2e99f4efdac4323dddfec29b4
+    PB8BBD1E5: 0d9c7895104b436bba34e2d21ff3b635
